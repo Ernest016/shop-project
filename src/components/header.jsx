@@ -1,5 +1,5 @@
 function Header() {
-    return <nav className="red accent-4">
+    return <nav className="accent-4 purple">
         <div className="container">
             <div className="nav-wrapper">
                 <a href="!#"

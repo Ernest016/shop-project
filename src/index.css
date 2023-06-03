@@ -47,7 +47,7 @@ code {
 }
 
 .btn {
-  background-color: red;
+  background-color: purple;
 }
 
 .basket-list {
@@ -85,7 +85,7 @@ code {
 .basket-quantity {
   cursor: pointer;
   vertical-align: middle;
-  color: rgb(128, 0, 0);
+  color: purple;
   border: solid;
   border-radius: 20px;
   font-size: 20px;
@@ -118,15 +118,15 @@ code {
 }
 
 .collection .collection-item.active {
-  background-color: red;
+  background-color: purple;
 }
 
 .secondary-content {
-  color: rgb(128, 0, 0);
+  color: purple;
 }
 
 .BasketName {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: medium;
-  color: rgb(128, 0, 0);
+  color: purple;
 }
